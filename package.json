@@ -1,0 +1,24 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhwailehFatima/stack-and-queue.git"
+  },
+  "keywords": [],
+  "author": "Fatima Khwaileh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhwailehFatima/stack-and-queue/issues"
+  },
+  "homepage": "https://github.com/KhwailehFatima/stack-and-queue#readme",
+  "dependencies": {
+    "jest": "^29.1.1"
+  }
+}
